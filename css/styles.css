@@ -1,0 +1,13 @@
+/* Base styles */
+:root {
+    --primary-color: #2D3047;
+    --secondary-color: #FF9F1C;
+    --accent-color: #419D78;
+    --text-color: #2D3047;
+    --background-color: #FAFAFA;
+    --light-gray: #E5E5E5;
+    --dark-gray: #4A4A4A;
+    --white: #FFFFFF;
+    --shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    --transition: all 0.3s ease;
+}
